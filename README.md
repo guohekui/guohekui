@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-### Hi, 👋 I'm Hekui Guo(guohekui) <a href="https://guohekui.github.io/zh/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" alt="homepage" width = "20"></a>
+### Hi, 👋 I'm Hekui Guo(guohekui) <a href="https://guohekui.github.io/zh/"><img src="https://th.bing.com/th/id/OIP.iLIRfaBTVMIlBdbTbdfKPgHaHa?rs=1&pid=ImgDetMain" alt="homepage" width = "20"></a>
 
 **About me:**
 
