@@ -1,27 +1,16 @@
-# Hi there, I'm Guohekui 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-![Profile Views](https://komarev.com/ghpvc/?username=guohekui)
+### Hi, 👋 I'm Hekui Guo(guohekui) <a href="https://guohekui.github.io/zh/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" alt="homepage" width = "20"></a>
 
-## About Me
+**About me:**
 
-- 🔭 I’m currently working on [Project Name](Link to Project)
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Topic]
-- 🤔 I’m looking for help with [Project/Topic]
-- 💬 Ask me about [Topic]
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🏫 An autonomous robot practitioners in ShangHai.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ❤️ I’m currently working on 3d LiDAR SLAM and sensor fusion.
+- 🌱 I’m looking to collaborate on laser mapping and localization.
+- 💬 Ask me about robot state estimation involved in slam.
+- 📫 How to reach me: guohekui7@gmail.com. <img src="https://media.giphy.com/media/WrlVBo6lEJEVA8EJOs/giphy.gif" height="20">
 
-## GitHub Stats
 
-![Guohekui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guohekui&show_icons=true&theme=radical)
+Robotics **|** Sensor Fusion **|** Visual/Lidar SLAM
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guohekui&layout=compact&theme=radical)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guohekui&show_icons=true&theme=radical)
